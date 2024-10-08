@@ -2,12 +2,13 @@
 
 ## Visão Geral
 Este backend foi desenvolvido para fornecer uma API que gerencia o sistema de tarefas utilizando Firebase Firestore. Ele está estruturado utilizando:
-1. **Node.js**
-2. **Express**
-3. **Cors**
-4. **TypeScript**
-5. **Firebase Firestore**.
 
+-  **Node.js**
+-  **Express**
+-  **Cors**
+-  **TypeScript**
+-  **Firebase Firestore**
+-  
 ## Estrutura de Pastas
 ```
 ├── src
