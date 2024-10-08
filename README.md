@@ -8,7 +8,7 @@ Este backend foi desenvolvido para fornecer uma API que gerencia o sistema de ta
 -  **Cors**
 -  **TypeScript**
 -  **Firebase Firestore**
--  
+  
 ## Estrutura de Pastas
 ```
 ├── src
